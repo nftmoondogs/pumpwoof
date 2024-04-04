@@ -8,8 +8,6 @@ const TokenomicsSection = () => {
         
         {/* Left Section */}
         <div className="flex-1 space-y-6">
-          <h1 className="text-2xl font-courier-bold mb-4">TOKENOMICS</h1>
-          <p className="font-simpfxo mb-6">Fair launch using Pump.fun only 1% Team Tokens</p>
 
 
           <div>
